@@ -1,0 +1,16 @@
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\obj\Debug\net5.0\DioLab1.csproj.AssemblyReference.cache
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\obj\Debug\net5.0\DioLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\obj\Debug\net5.0\DioLab1.AssemblyInfoInputs.cache
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\obj\Debug\net5.0\DioLab1.AssemblyInfo.cs
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\obj\Debug\net5.0\DioLab1.csproj.CoreCompileInputs.cache
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\bin\Debug\net5.0\DioLab1.exe
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\bin\Debug\net5.0\DioLab1.deps.json
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\bin\Debug\net5.0\DioLab1.runtimeconfig.json
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\bin\Debug\net5.0\DioLab1.runtimeconfig.dev.json
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\bin\Debug\net5.0\DioLab1.dll
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\bin\Debug\net5.0\ref\DioLab1.dll
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\bin\Debug\net5.0\DioLab1.pdb
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\obj\Debug\net5.0\DioLab1.dll
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\obj\Debug\net5.0\ref\DioLab1.dll
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\obj\Debug\net5.0\DioLab1.pdb
+C:\Users\Done\Documents\Laidone\Study\DigitalInnovationOne\.NET\DioLab1\obj\Debug\net5.0\DioLab1.genruntimeconfig.cache

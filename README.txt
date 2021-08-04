@@ -1,0 +1,1 @@
+Resolução do projeto Criando um APP simples de dastro de séries em .NET
